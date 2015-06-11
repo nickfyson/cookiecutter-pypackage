@@ -2,7 +2,7 @@
 cookiecutter-pypackage
 ======================
 
-Cookiecutter template for a Python package. See https://github.com/audreyr/cookiecutter.
+Cookiecutter template for a Python package. See https://github.com/nickfyson/cookiecutter-pypackage.
 
 * Free software: BSD license
 * Vanilla testing setup with `unittest` and `python setup.py test`
@@ -15,7 +15,7 @@ Usage
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/nickfyson/cookiecutter-pypackage.git
 
 Then:
 
